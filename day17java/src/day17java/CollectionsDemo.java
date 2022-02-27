@@ -19,6 +19,9 @@ public class CollectionsDemo {
 	    System.out.println(oj);
 	    oj.peek();
 	    System.out.println(oj);
+	    oj.add(20000);
+	    System.out.println(oj);
+	    
 	
 	}
 

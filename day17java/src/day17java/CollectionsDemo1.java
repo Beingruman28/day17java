@@ -19,7 +19,10 @@ public class CollectionsDemo1 {
 			    System.out.println(oj);
 			    oj.peek();
 			    System.out.println(oj);
-			
+			    oj.remove(3);
+			    System.out.println(oj);
+			    oj.remove("bhuvi");
+			    System.out.println(oj);
 			}
 	}
 
